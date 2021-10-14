@@ -72,7 +72,7 @@ The Neural Network Model was trained on a dataset of 2045200 images and tested o
 | Test     | 88.65     |
 
 
+<img width="314" alt="a1" src="https://user-images.githubusercontent.com/87940660/137364043-97d8bad0-fd2e-4b9e-8c13-40b94c574ad2.png">
 
-
-
+<img width="314" alt="a2" src="https://user-images.githubusercontent.com/87940660/137364216-32a0d36f-d0fe-4e28-a4d4-31d96adb02bb.png">
 
